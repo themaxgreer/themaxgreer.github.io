@@ -11,3 +11,11 @@ body {
 footer {
     margin: 50px 0;
 }
+
+span.tab {
+	padding-left: 2em;
+}
+
+#icons {
+	width: 18px;
+}
