@@ -1,3 +1,28 @@
+Name: Max Greer
+
+Email: themaxgreer@gmail.com
+
+Project: themaxgreer.github.io
+
+Description: Frontpage for GitHub projects using the Bootstrap 1 Col Portfolio Template
+
+#### Table of Contents
+
+    /css/:            Related CSS files for the webpage
+    /fonts/:          Fonts related to Bootstrap template
+    /images/:         Images for projects, icons, and about me page
+    /js/:             Files for the JavaScript in the template
+    index.html        HTML file for the frontpage of GitHub projects
+    about.html        HTML file for about me page
+    LICENSE:          License for the use of these files
+    README:           Description of the project
+    
+Thanks to David Miller for the template.
+
+Original README is below
+
+--------------------------------------------------------------
+
 # [Start Bootstrap](http://startbootstrap.com/) - [1 Col Portfolio](http://startbootstrap.com/template-overviews/1-col-portfolio/)
 
 [1 Col Portfolio](http://startbootstrap.com/template-overviews/1-col-portfolio/) is a one column portfolio template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
